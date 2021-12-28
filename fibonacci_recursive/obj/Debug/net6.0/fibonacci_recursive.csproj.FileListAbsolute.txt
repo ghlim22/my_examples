@@ -1,0 +1,15 @@
+C:\Users\lenovo\Projects\my_examples\fibonacci_recursive\bin\Debug\net6.0\fibonacci_recursive.exe
+C:\Users\lenovo\Projects\my_examples\fibonacci_recursive\bin\Debug\net6.0\fibonacci_recursive.deps.json
+C:\Users\lenovo\Projects\my_examples\fibonacci_recursive\bin\Debug\net6.0\fibonacci_recursive.runtimeconfig.json
+C:\Users\lenovo\Projects\my_examples\fibonacci_recursive\bin\Debug\net6.0\fibonacci_recursive.dll
+C:\Users\lenovo\Projects\my_examples\fibonacci_recursive\bin\Debug\net6.0\ref\fibonacci_recursive.dll
+C:\Users\lenovo\Projects\my_examples\fibonacci_recursive\bin\Debug\net6.0\fibonacci_recursive.pdb
+C:\Users\lenovo\Projects\my_examples\fibonacci_recursive\obj\Debug\net6.0\fibonacci_recursive.csproj.AssemblyReference.cache
+C:\Users\lenovo\Projects\my_examples\fibonacci_recursive\obj\Debug\net6.0\fibonacci_recursive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Projects\my_examples\fibonacci_recursive\obj\Debug\net6.0\fibonacci_recursive.AssemblyInfoInputs.cache
+C:\Users\lenovo\Projects\my_examples\fibonacci_recursive\obj\Debug\net6.0\fibonacci_recursive.AssemblyInfo.cs
+C:\Users\lenovo\Projects\my_examples\fibonacci_recursive\obj\Debug\net6.0\fibonacci_recursive.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Projects\my_examples\fibonacci_recursive\obj\Debug\net6.0\fibonacci_recursive.dll
+C:\Users\lenovo\Projects\my_examples\fibonacci_recursive\obj\Debug\net6.0\ref\fibonacci_recursive.dll
+C:\Users\lenovo\Projects\my_examples\fibonacci_recursive\obj\Debug\net6.0\fibonacci_recursive.pdb
+C:\Users\lenovo\Projects\my_examples\fibonacci_recursive\obj\Debug\net6.0\fibonacci_recursive.genruntimeconfig.cache
